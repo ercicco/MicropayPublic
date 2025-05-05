@@ -6,6 +6,7 @@
 **MicroPay** es una plataforma de pago interoperable que permite la activación de máquinas mediante billeteras digitales. Nuestros dispositivos se integran fácilmente con equipos que usan fichas, billetes o cospeles, modernizándolos para aceptar pagos digitales.
 
 > 💡 **Ventaja diferencial:** El dispositivo **solo permite mostrar el QR de pago si la máquina está en condiciones de operar**. De lo contrario, el QR no se presenta al usuario, evitando cobros indebidos y mejorando la experiencia del cliente.
+- **URL:** `https://micro-pay.com.ar`
 
 ---
 
